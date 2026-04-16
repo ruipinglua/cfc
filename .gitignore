@@ -27,3 +27,8 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
+
+# Trading agent — secrets and runtime state
+trading/credentials.json
+trading/state.json
+trading/logs/
